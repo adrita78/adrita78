@@ -1,4 +1,4 @@
-### Hi there 👋 I'm @adrita78
+### Hi there 👋 I'm Adrita
 
 - 🔭 I’m currently working on Generative Protein Design.
 - 🌱 I’m currently learning about Probabilisitc Combinatorics.
